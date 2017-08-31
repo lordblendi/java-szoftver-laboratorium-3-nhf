@@ -1,6 +1,6 @@
 # Szoftver laboratórium 3 nagyházi
 
-Ezt a nagyházit a Szoftver laboratórium 3 tantárgyhoz készítettem a BME-s tanulmányaim során a 2011/2012/3. félévben.
+Ezt a nagyházit a Szoftver laboratórium 3 tantárgyhoz készítettem a BME-s tanulmányaim során a 2011/2012/1. félévben.
 
 ## Feladat - Rubik-kocka keverő program
 
